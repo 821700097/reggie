@@ -1,2 +1,4 @@
-package com.example.reggie.entity;public class AddNew {
+package com.example.reggie.entity;
+
+public class AddNew {
 }
