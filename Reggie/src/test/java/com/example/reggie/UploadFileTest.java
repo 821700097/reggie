@@ -10,7 +10,7 @@ public class UploadFileTest {
     public void getFilenameSuffixTest(){
         String filename="asdfagqwe.jpg";
         String substring = filename.substring(filename.lastIndexOf("."));
-        System.out.println(substring+"");
+        System.out.println(substring+""+"...... world");
 
     }
 }
